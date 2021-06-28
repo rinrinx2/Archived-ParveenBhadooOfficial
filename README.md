@@ -1,6 +1,15 @@
 # Archived-ParveenBhadooOfficial
 Basically all/most archived data of ParveenBhadooOfficial, thanks to web archives 
 
+
+## Web Archives containing ParveenBhadooOfficial
+
+https://web.archive.org/web/*/https://github.com/ParveenBhadooOfficial*
+
+https://archive.ph/https://github.com/ParveenBhadooOfficial*
+
+
+
 ## Profile
 Original URL: https://github.com/ParveenBhadooOfficial
 
@@ -31,15 +40,17 @@ https://github.com/OneFusionPlus/Google-Drive-Index
 ### Bhadoo-Cloud
 Original URL: https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud
 
-A fork with the latest commit: 
-
-https://github.com/reaitten/Bhadoo-Cloud
+Info: Directly Upload to Google Drive from Torrent or URLs
 
 Archived Date:
 
 17 Jun 2021 02:27:01 UTC
 
 https://web.archive.org/web/20210617022701if_/https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud
+
+A fork with the latest commit: 
+
+https://github.com/reaitten/Bhadoo-Cloud
 
 ### BhadooJS
 
@@ -52,3 +63,7 @@ Archived Date:
 17 Jan 2021 20:16:36 UTC
 
 https://web.archive.org/web/20210117201636/https://github.com/ParveenBhadooOfficial/BhadooJS
+
+Latest Cached Version (v1.0.6): 
+
+https://web.archive.org/web/20210117203119/https://github.com/ParveenBhadooOfficial/BhadooJS/archive/1.0.6.tar.gz
