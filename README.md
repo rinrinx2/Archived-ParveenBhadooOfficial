@@ -37,6 +37,10 @@ A fork-clone with the latest commit configured to point all cdn data to this rep
 
 https://github.com/OneFusionPlus/Google-Drive-Index
 
+GitLab Repo (created by Parveen):
+
+https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index
+
 ### Bhadoo-Cloud
 Original URL: https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud
 
