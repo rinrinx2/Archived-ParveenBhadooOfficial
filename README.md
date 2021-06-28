@@ -22,7 +22,7 @@ Archived from Google Cache
 https://archive.ph/M4Yuf
 
 ## Repos
-Don't have much info about repos or stars since there aren't archived anywhere.
+Don't have much info about repos or stars since they're aren't archived anywhere.
 
 ### Google-Drive-Index
 Original URL: https://github.com/ParveenBhadooOfficial/Google-Drive-Index
