@@ -24,6 +24,10 @@ Archived Date:
 
 https://web.archive.org/web/20210115060215/https://github.com/ParveenBhadooOfficial/Google-Drive-Index
 
+A fork-clone with the latest commit configured to point all cdn data to this repo:
+
+https://github.com/OneFusionPlus/Google-Drive-Index
+
 ### Bhadoo-Cloud
 Original URL: https://github.com/ParveenBhadooOfficial/Bhadoo-Cloud
 
